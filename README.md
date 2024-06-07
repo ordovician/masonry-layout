@@ -41,8 +41,8 @@ This Go program creates a masonry-style layout of images, where images fill up t
 
 Run the binary with the desired parameters:
 
-```sh
-masonry-layout -input /path/to/images -output output.png -maxwidth 820 -height 200
+
+	masonry-layout -input /path/to/images -output output.png -maxwidth 820 -height 200
 
 
 ### Command-line Flags:
